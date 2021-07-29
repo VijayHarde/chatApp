@@ -1,0 +1,7 @@
+{
+  "name": "ionchat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
