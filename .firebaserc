@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "chatapp-22a9b": {
+      "hosting": {
+        "app": [
+          "chatapp-22a9b"
+        ]
+      }
+    }
+  }
+}
